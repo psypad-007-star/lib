@@ -1,0 +1,20 @@
+{
+    "books": {
+        "B001": {
+            "title": "The Pragmatic Programmer",
+            "author": "Andrew Hunt",
+            "number": 1
+        },
+        "B002": {
+            "title": "Clean Code",
+            "author": "Robert C. Martin",
+            "number": 4
+        },
+        "B004": {
+            "title": "Mastery",
+            "author": "Robert Green",
+            "number": 4
+        }
+    },
+    "members": {}
+}
